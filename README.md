@@ -84,7 +84,7 @@ The stack is evaluated **from top to bottom**. Each modifier receives the result
 
 ![Modifier stack](images/stack.png)
 
-- **Blue dot button (Arrange)** – evaluates the stack and previews the result in the level. The result is not final until you **Confirm** or **Cancel** the arrangement.
+- **Blue dots button (Arrange)** – evaluates the stack and previews the result in the level. The result is not final until you **Confirm** or **Cancel** the arrangement.
 - **Green plus button** – opens a menu with the four modifier types. Choose one to add it to the stack.
 
 ### Modifier
