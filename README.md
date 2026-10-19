@@ -86,6 +86,7 @@ The stack is evaluated **from top to bottom**. Each modifier receives the result
 
 - **Blue dots button (Arrange)** – evaluates the stack and previews the result in the level. The result is not final until you **Confirm** or **Cancel** the arrangement.
 - **Green plus button** – opens a menu with the four modifier types. Choose one to add it to the stack.
+- **Note: After pickup a preset the arrangement not auto enter preview mode, user need to manual click on the the blue dot(Arrange button) to enter preview mode.
 
 ### Modifier
 Every modifier shares the same header, while its settings depend on its type.
