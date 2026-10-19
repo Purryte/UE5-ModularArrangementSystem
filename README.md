@@ -86,7 +86,10 @@ The stack is evaluated **from top to bottom**. Each modifier receives the result
 
 - **Blue dots button (Arrange)** – evaluates the stack and previews the result in the level. The result is not final until you **Confirm** or **Cancel** the arrangement.
 - **Green plus button** – opens a menu with the four modifier types. Choose one to add it to the stack.
-- **Note: After pickup a preset the arrangement not auto enter preview mode, user need to manual click on the the blue dot(Arrange button) to enter preview mode.
+
+![Modifier stack](images/arrange-button.png)
+
+- **Note**: The Arrangement button normally disable, it will enable whenever at least two actors are selected and grey-out after press and enter arrange preview mode. Also when a preset was pickup it will not automatic enter the preview mode until and the button will disable until the condition above meet.
 
 ### Modifier
 Every modifier shares the same header, while its settings depend on its type.
