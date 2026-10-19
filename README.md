@@ -89,7 +89,7 @@ The stack is evaluated **from top to bottom**. Each modifier receives the result
 
 ![Modifier stack](images/arrange-button.png)
 
-- **Note**: The Arrangement button normally disable, it will enable whenever at least two actors are selected and grey-out after press and enter arrange preview mode. Also when a preset was pickup it will not automatic enter the preview mode until and the button will disable until the condition above meet.
+- **Note**: The Arrange button normally disable, it will enable whenever at least two actors are selected and grey-out after pressed and entering arrangement preview mode. Also when selecting a preset, it will not automatic enter the preview mode and the button will be disable until the condition above is met.
 
 ### Modifier
 Every modifier shares the same header, while its settings depend on its type.
